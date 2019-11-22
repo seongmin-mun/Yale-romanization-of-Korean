@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class Romanization {
     public static String yale_romanization(String hangul) throws IOException {
-
+        //reference code
         //https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=wrhffp2ffm
 
         String typo = hangul;
