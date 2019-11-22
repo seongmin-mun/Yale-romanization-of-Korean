@@ -38,7 +38,7 @@
 -----------
 예일 로마자 표기법을 위해 Java를 기반으로 개발된 라이브러리는 아래의 링크를 통해 다운로드 할 수 있다.
 </br>
-[Java library](https://seongmin-mun.github.io/Yale-romanization-of-Korean/)
+[yale_romanization.jar](https://seongmin-mun.github.io/Yale-romanization-of-Korean/yale_romanization.jar)
 
 <a name="use"></a>
 ## 사용법(How to use?) 
