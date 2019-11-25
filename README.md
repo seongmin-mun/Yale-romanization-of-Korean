@@ -69,6 +69,6 @@ public class Systemrun {
 - Sohn, Ho-Min (2001). The Korean Language. Cambridge University Press. pp. 1–4. ISBN 978-0-521-36943-5.
 
 ### 관련 사이트
-[Hangul to Yale Romanization Converter](http://asaokitan.net/tools/hangul2yale/)
-[Hangul Romanization Table](https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=wrhffp2ffm)
+- [Hangul to Yale Romanization Converter](http://asaokitan.net/tools/hangul2yale/)
+- [Hangul Romanization Table](https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=wrhffp2ffm)
 
